@@ -1,0 +1,13 @@
+# build output
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# files generated when the programs run (the input logs stay in the repo)
+var/logs/apache_2k_*.log
+var/logs/linux_2k_ip_stat.txt
